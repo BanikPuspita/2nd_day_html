@@ -1,0 +1,165 @@
+/* p{
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: brown;
+} */
+
+/* .title{
+    color: blue;
+}
+.a{
+    background-color: aqua;
+} */
+
+.div-section1{
+    background-color: aqua;
+}
+.div-section1 h3{
+    font-weight: bold;
+    font-size: x-large;
+    color: yellow;
+    background-color: blueviolet;
+    border: 4px dotted aquamarine;
+}
+.div-section2{
+    background-color: rgb(45, 120, 45);
+}
+.heading{
+    background-color: red;
+}
+.main-section{
+    border: 8px solid blue;
+    background-color: yellow;
+    /* margin: 100px;
+    padding: 80px; */
+
+    margin: 50px 0px;
+    padding: 0px 80px;
+    margin: 50px 100px;
+
+    /* border-radius: 60px; */
+    border-radius: 100%;
+}
+
+.baiust-section{
+    border: 2px solid black;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    /* padding-left: 70px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-left: 50px; */
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.baiust{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a{
+    color: red;
+}
+
+.baiust-line{
+    text-align: center;
+}
+
+.teacher-section{
+    text-align: center;
+}
+.img-teacher{
+    width: 140px;
+    height: 75px;
+}
+
+.abc{
+    height: 800px;
+    background-color: skyblue;
+    /* display: flex; 
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: space-between;
+    justify-content: space-around; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tec{
+   display: flex; 
+   /* flex-direction: column; */
+   justify-content: center;
+   align-items: center;
+}
+
+.company-section img{
+    width: 200px;
+    height: 120px;
+}
+
+.company-section{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.company-section div{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+
+.company-section{
+    background-color: brown;
+    padding: 100px 0px;
+}
+
+.company-section div:hover{
+    background-color: blue;
+    padding: 5px;
+    color: chartreuse;
+    border: 3px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
